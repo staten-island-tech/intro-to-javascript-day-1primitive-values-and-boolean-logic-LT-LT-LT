@@ -15,3 +15,4 @@ console.log("Milk");
 console.log("Both Milk");
 } else (
 console.log("Almond Milk");};
+\\I wrote this in GitHub website so I did not check it.
